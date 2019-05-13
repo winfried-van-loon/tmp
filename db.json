@@ -3,7 +3,7 @@
         "Via e-mail": {
             "Lage Resolutie (10x15) fotobestand via e-mail": 5.00,
             "Medium Resolutie (20x30) fotobestand via e-mail": 10.00,
-            "Hoge Resolutie (40x60) fotobestand via e-mail": 25.00,
+            "Hoge Resolutie (40x60) fotobestand via e-mail": 25.00
         },
         "Afgedrukt standaard": {
             "Afgedrukt op 10x15": 6.00,
@@ -15,7 +15,7 @@
             "Afgedrukt op 40x40": 27.00,
             "Afgedrukt op 40x60": 35.00,
             "Afgedrukt op 50x50": 45.00,
-            "Afgedrukt op 50x75": 50.00,
+            "Afgedrukt op 50x75": 50.00
         },
         "Afgedrukt en geplakt op polystyreen": {
             "Afgedrukt op 30x30 en geplakt op 1mm polystyreen": 30.00,
@@ -23,7 +23,7 @@
             "Afgedrukt op 40x40 en geplakt op 1mm polystyreen": 50.00,
             "Afgedrukt op 40x60 en geplakt op 1mm polystyreen": 60.00,
             "Afgedrukt op 50x50 en geplakt op 1mm polystyreen": 70.00,
-            "Afgedrukt op 50x75 en geplakt op 1mm polystyreen": 90.00,
+            "Afgedrukt op 50x75 en geplakt op 1mm polystyreen": 90.00
         },
         "Afgedrukt op frame canvas": {
             "Afgedrukt op 2cm frame canvas 30x45": 75.00,
@@ -33,20 +33,20 @@
             "Afgedrukt op 2cm frame canvas 50x75": 125.00,
             "Afgedrukt op 2cm frame canvas 60x60": 125.00,
             "Afgedrukt op 2cm frame canvas 60x90": 140.00,
-            "Afgedrukt op 2cm frame canvas100x100": 230.00,
+            "Afgedrukt op 2cm frame canvas100x100": 230.00
         },
         "Wanddecoratie Hout": {
             "Wanddecoratie Hout 40x60": 200.00,
             "Wanddecoratie Hout 50x50": 200.00,
             "Wanddecoratie Hout 60x60": 250.00,
-            "Wanddecoratie Hout 60x90": 320.00,
+            "Wanddecoratie Hout 60x90": 320.00
         },
         "Wanddecoratie Aluminium": {
             "Wanddecoratie Aluminium 40x40": 110.00,
             "Wanddecoratie Aluminium 50x50": 145.00,
             "Wanddecoratie Aluminium 60x60": 185.00,
             "Wanddecoratie Aluminium 70x70": 225.00,
-            "Wanddecoratie Aluminium 80x80": 275.00,
+            "Wanddecoratie Aluminium 80x80": 275.00
         }
     },
     "locaties": [
